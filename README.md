@@ -42,7 +42,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 ## 3. Tech Craft Pro (Premium Plan: Monthly Subscription)
 💰 **₹3000 per month**  
 - ✅ Everything in the **Builder Plan**  
-- ✅ **Monthly Live Q&A sessions** with mentorship  
+- ✅ **Monthly Live Q&A session**
 - ✅ **Project reviews and personalized guidance**  
 - ✅ **Certificate of completion**  
 
