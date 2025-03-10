@@ -3,6 +3,7 @@
 Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course introduces you to modern JavaScript-based web development with a focus on building single-page applications using React and REST APIs with Node.js.
 
 📅 Duration: Approximately 12 months (based on 5 hours per day, 5 days per week)
+🎓 Certificates will be awarded on completion of each module.
 
 ## Course Contents
 
