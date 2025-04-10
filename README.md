@@ -1,4 +1,4 @@
-# Full Stack Open: Deep Dive Into Modern Web Development
+# Deep Dive Into Modern Web Development
 
 Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course introduces you to modern JavaScript-based web development with a focus on building single-page applications using React and REST APIs with Node.js.
 
