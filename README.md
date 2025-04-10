@@ -4,6 +4,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 
 #### 📅 Duration: Approximately 12 months (based on 5 hours per day, 5 days per week)
 #### 🎓 Certificates will be awarded on completion of each module.
+#### 🎓 self-paced learning.
 
 ## Course Contents
 
