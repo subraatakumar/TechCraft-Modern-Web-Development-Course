@@ -1,4 +1,4 @@
-# Deep Dive Into Modern Web Development
+# Tech Craft Full Stack Mastery: Deep Dive Into Modern Web Development
 
 Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course introduces you to modern JavaScript-based web development with a focus on building single-page applications using React and REST APIs with Node.js.
 
@@ -67,9 +67,6 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 💡 **Interested?** Visit [Tech Craft By Subrata](https://techcraftcourse.subraatakumar.com/) or contact us for enrollment details! 🚀  
 
 
-## Announcements
-
-For course-related questions and updates, please check out the course announcements in Part 0. Join the discussion on [Discord](https://study.cs.helsinki.fi/discord/join/fullstack) for community support and updates.
 
 
 ## Additional Resources
