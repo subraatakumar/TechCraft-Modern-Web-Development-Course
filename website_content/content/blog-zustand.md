@@ -286,3 +286,69 @@ Start small, split stores as your app grows, and enjoy managing state like a pro
 ---
 
 **Follow TechCraft for more beginner-friendly deep dives.** 🚀
+
+## Counter App as seen on youtube video before Zustand.
+
+```js
+import { useState } from "react";
+import { Pressable, Text, View } from "react-native";
+
+const App = () => {
+  const [counter, setCounter] = useState(0);
+  return (
+    <View>
+      <TitleText title={"Zustand Example"} />
+      <TitleText title={"Counter App"} />
+      <CounterText counter={counter} />
+      <ButtonContainer>
+        <CustomButton
+          title={"Increase"}
+          onPress={() => setCounter((prev) => prev + 1)}
+        />
+        <CustomButton
+          title={"Decrease"}
+          onPress={() => setCounter((prev) => prev - 1)}
+        />
+        <CustomButton title={"Reset"} onPress={() => setCounter((prev) => 0)} />
+      </ButtonContainer>
+    </View>
+  );
+};
+
+const TitleText = ({ title }) => {
+  return <Text style={{ textAlign: "center", fontSize: 30 }}>{title}</Text>;
+};
+
+const CounterText = ({ counter }) => {
+  return (
+    <Text style={{ textAlign: "center", fontSize: 20 }}>
+      Counter: {counter}
+    </Text>
+  );
+};
+const ButtonContainer = ({ children }) => {
+  return (
+    <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
+      {children}
+    </View>
+  );
+};
+
+const CustomButton = ({ title, onPress }) => {
+  return (
+    <Pressable
+      style={{
+        padding: 10,
+        backgroundColor: "rgba(50, 135, 168,1)",
+        borderRadius: 5,
+        margin: 10,
+      }}
+      onPress={onPress}
+    >
+      <Text>{title ?? "Send"}</Text>
+    </Pressable>
+  );
+};
+
+export default App;
+```
