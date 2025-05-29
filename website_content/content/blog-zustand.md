@@ -287,6 +287,8 @@ Start small, split stores as your app grows, and enjoy managing state like a pro
 
 **Follow TechCraft for more beginner-friendly deep dives.** 🚀
 
+[youtube Video](https://youtu.be/5-sk4nfx6e8)
+
 ## Counter App as seen on youtube video before Zustand.
 
 ```js
