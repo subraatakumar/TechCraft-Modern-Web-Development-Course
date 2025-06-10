@@ -1,5 +1,9 @@
 # How’d you handle conflicting priorities from stakeholders?
 
+
+[![Handle Conflict](https://img.youtube.com/vi/Kvdgmd_P78Q/0.jpg)](https://www.youtube.com/watch?v=Kvdgmd_P78Q)
+
+
 ## Introduction
 
 Building software is rarely a solo act. Product managers, designers, engineers, marketing leads, compliance officers, and executives all bring *requests* they believe are critical. Inevitably those requests collide—the sales team needs a one-off feature to close a deal, the CTO wants time for technical debt, the PM is chasing a North-Star metric, and legal just discovered a looming regulation. **Handling conflicting stakeholder priorities** is the discipline of turning that chaotic wish-list into a coherent, value-led roadmap. Mastering it keeps teams focused on business outcomes, prevents “loudest-voice wins” politics, and—most importantly—delivers the right value to users at the right time.
