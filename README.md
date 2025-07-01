@@ -1,13 +1,5 @@
 # Tech Craft Full Stack Mastery: Deep Dive Into Modern Web Development
 
-
-```mermaid
-graph TD
-    A[Start] --> B{Is it supported?}
-    B -- Yes --> C[Enjoy diagrams!]
-    B -- No  --> D[Fallback to images]
-```
-
 Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course introduces you to modern JavaScript-based web development with a focus on building single-page applications using React and REST APIs with Node.js.
 
 #### 📅 Duration: Approximately 12 months (based on 5 hours per day, 5 days per week)
